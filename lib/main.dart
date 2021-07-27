@@ -14,3 +14,5 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+void bottlesOfBeer(int bottles) {}
